@@ -1,2 +1,3 @@
-some text 1
 some text? that are typed from github directly 2
+Oh. And this is time, when git gui break into the house
+Ouch, the first line was stolen!
